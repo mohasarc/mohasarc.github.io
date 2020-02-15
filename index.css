@@ -1,5 +1,11 @@
 body{
-    z-index: 2;
+    z-index: 4;
+}
+
+#moreBtn{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    opacity: 0.9;
 }
 
 .icon{
@@ -21,4 +27,8 @@ nav{
     margin: 5%;
     border-radius: 1em;
     opacity: 0.90;
+}
+
+.title-badge{
+    font-size: 55%;
 }
